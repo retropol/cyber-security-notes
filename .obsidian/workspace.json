@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README ana hatları"
+              "title": "Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti ana hatları"
             }
           },
           {
@@ -181,10 +181,11 @@
   },
   "active": "c28a16b5d62380ae",
   "lastOpenFiles": [
-    "Siber Güvenliğe Giriş.md",
-    "README.md",
-    "SOC Analyst/Pain Piramidi.md",
+    "Pasted image 20250516110055.png",
     "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
+    "README.md",
+    "Siber Güvenliğe Giriş.md",
+    "SOC Analyst/Pain Piramidi.md",
     "DFIR/Windows Veri Toplama.md",
     "DFIR/Sabit Diskler ve Dosya Sistemlerinin Temelleri.md",
     "().md",

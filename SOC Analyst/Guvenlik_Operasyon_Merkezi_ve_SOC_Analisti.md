@@ -26,6 +26,11 @@ Junior Security Analyst rolünde zamanınızın çoğunu **Triage Specialist** o
 
 Bu alanda kendinizi geliştirerek **Tier 2** veya **Tier 3** seviyesinde bir kariyere devam edebilirsiniz.
 
+![tier list](https://tryhackme-images.s3.amazonaws.com/user-uploads/5fc2847e1bbebc03aa89fbf2/room-content/7bf731bb9c58b0e9172a4788b761ad37.png)
+
+
+
+
 # SOC Nedir?
 
 **SOC (Security Operations Center)**, temel görevi siber dünyadaki tehditleri sürekli bir şekilde araştırmak, önlemek ve bunlara yanıt vermektir. Güvenlik operasyonları ekibi, bir şirketin fikri haklarını, çalışan verilerini, iç sistemlerini ve birçok varlığını izlemek ve korumakla yükümlüdür. Saldırıları izlemek, değerlendirmek ve karşı savunma yapmak için ekipler koordineli bir şekilde çalışır. Şirketteki SOC'de çalışan kişi sayısı, organizasyonun büyüklüğüne göre değişir.
