@@ -26,7 +26,8 @@ Junior Security Analyst rolünde zamanınızın çoğunu **Triage Specialist** o
 
 Bu alanda kendinizi geliştirerek **Tier 2** veya **Tier 3** seviyesinde bir kariyere devam edebilirsiniz.
 
-![[tierlist.png]]
+![Tier List](images/tierlist.png)
+
 
 
 
