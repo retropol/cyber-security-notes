@@ -20,15 +20,11 @@ This repo documents my learning journey into the **Blue Team** side of cybersecu
 
 ## 📁 Folder Structure
 
-```bash
+```
 cybersec-notes/
-├── networking/
-├── linux-windows/
-├── log-analysis/
-├── siem-tools/
-├── incident-response/
-├── forensics/
-├── threat-intel/
+├── dfir/
+├── soc/
+├── /
 ├── certifications/
 │   ├── sc-900/
 │   └── sc-200/
