@@ -5,7 +5,7 @@
  ## *IoC Nedir?*
 
 ***IoC (Indicator of Compromise - Uzlaşma Göstergesi)**, bir siber saldırının veya güvenlik ihlalinin varlığını işaret eden verilerdir. Bu göstergeler, bir sistemin tehlikeye atıldığını tespit etmek ve tehdidi analiz etmek için kullanılır. SOC ekipleri, IoC'leri izleyerek tehditleri hızlıca fark eder ve müdahale eder.* 
-![[../assets/images/painpiramid.png]]
+![pain](../assets/images/painpiramid.png)
 ## Pain Piramidi'nin Mantığı
 
 Pain Piramidi, IoC'lerin tespit edilmesi ve engellenmesinin saldırgan üzerindeki etkisini değerlendirir. Alt seviyelerde IoC'ler kolayca değiştirilebilir veya gizlenebilirken, üst seviyelere doğru IoC'ler saldırganın stratejisini kökten değiştirmesini gerektirir, bu da onlara daha fazla "acı" (maliyet, zaman, çaba) verir.
