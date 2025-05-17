@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFIR/Anti Forensic Teknikleri/Anti Forensic Teknikleri.md",
+                "file": "DFIR/Anti Forensic Teknikleri/Dosya Günlükleri Manipülasyonu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anti Forensic Teknikleri"
+              "title": "Dosya Günlükleri Manipülasyonu"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFIR/Anti Forensic Teknikleri/Anti Forensic Teknikleri.md",
+                "file": "DFIR/Anti Forensic Teknikleri/Artifact Wiping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Anti Forensic Teknikleri ana hatları"
+              "title": "Artifact Wiping ana hatları"
             }
           },
           {
@@ -179,14 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95be2255be2d1d07",
+  "active": "c28a16b5d62380ae",
   "lastOpenFiles": [
+    "DFIR/Anti Forensic Teknikleri/Encryption.md",
+    "DFIR/Anti Forensic Teknikleri/Artifact Wiping.md",
+    "DFIR/Anti Forensic Teknikleri/Anonimlik Servisleri.md",
+    "DFIR/Anti Forensic Teknikleri/Dosya Günlükleri Manipülasyonu.md",
+    "DFIR/Anti Forensic Teknikleri/Taşınabliir OS ve App's.md",
+    "DFIR/Anti Forensic Teknikleri/Veri Saklama Yöntemleri.md",
+    "SOC Analyst/Pain Piramidi.md",
     "DFIR/Dosya Sistemleri ve Sabit Diskler",
     "DFIR/Windows Veri Toplama",
-    "DFIR/Başlıksız.md",
-    "DFIR/Anti Forensic Teknikleri/Anti Forensic Teknikleri.md",
     "DFIR/Anti Forensic Teknikleri",
-    "SOC Analyst/Pain Piramidi.md",
     "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
     "assets/images/painpiramid.png",
     "DFIR/Dosya Sistemleri ve Sabit Diskler/Sabit Diskler ve Dosya Sistemlerinin Temelleri.md",
