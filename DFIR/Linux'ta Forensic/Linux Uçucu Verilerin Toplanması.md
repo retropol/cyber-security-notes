@@ -126,13 +126,3 @@ history
 > Bu sadece **sistem açıkken yazılmış komutları** kaydeder.
 
 ---
-
-##  8. PowerShell Komut Geçmişi (Windows)
-
-Eğer varsa, PowerShell komut geçmişi şu dosyada bulunabilir:
-
-```
-%USERPROFILE%\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
-```
-
----
