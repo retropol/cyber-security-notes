@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFIR/Anti Forensic Teknikleri/Dosya Günlükleri Manipülasyonu.md",
+                "file": "DFIR/Linux'ta Forensic/Linux Uçucu Verilerin Toplanması.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dosya Günlükleri Manipülasyonu"
+              "title": "Linux Uçucu Verilerin Toplanması"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "9fd791776c9084dc",
@@ -181,18 +181,25 @@
   },
   "active": "c28a16b5d62380ae",
   "lastOpenFiles": [
-    "DFIR/Anti Forensic Teknikleri/Encryption.md",
-    "DFIR/Anti Forensic Teknikleri/Artifact Wiping.md",
-    "DFIR/Anti Forensic Teknikleri/Anonimlik Servisleri.md",
     "DFIR/Anti Forensic Teknikleri/Dosya Günlükleri Manipülasyonu.md",
-    "DFIR/Anti Forensic Teknikleri/Taşınabliir OS ve App's.md",
+    "DFIR/Anti Forensic Teknikleri/Anonimlik Servisleri.md",
+    "DFIR/Linux'ta Forensic/Linux Uçucu Verilerin Toplanması.md",
+    "DFIR/Linux'ta Forensic/Linux Sistem Dosyaları.md",
+    "DFIR/Linux'ta Forensic/Linux Configrutaion Dosyaları.md",
+    "DFIR/Linux'ta Forensic/Linux Dosya Sistemleri ve Forensic.md",
+    "assets/images/votal.png",
+    "assets/images/painpiramid.png",
+    "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
     "DFIR/Anti Forensic Teknikleri/Veri Saklama Yöntemleri.md",
+    "DFIR/Anti Forensic Teknikleri/Artifact Wiping.md",
+    "DFIR/Anti Forensic Teknikleri/Taşınabliir OS ve App's.md",
+    "DFIR/Anti Forensic Teknikleri/Encryption.md",
+    "DFIR/Linux/Başlıksız",
+    "DFIR/Linux'ta Forensic",
     "SOC Analyst/Pain Piramidi.md",
     "DFIR/Dosya Sistemleri ve Sabit Diskler",
     "DFIR/Windows Veri Toplama",
     "DFIR/Anti Forensic Teknikleri",
-    "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
-    "assets/images/painpiramid.png",
     "DFIR/Dosya Sistemleri ve Sabit Diskler/Sabit Diskler ve Dosya Sistemlerinin Temelleri.md",
     "assets/images/tierlist.png",
     "assets/images",
