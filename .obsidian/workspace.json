@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFIR/Linux'ta Forensic/Linux Uçucu Verilerin Toplanması.md",
+                "file": "DFIR/Linux'ta Forensic/Linux Sistem Dosyaları.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Uçucu Verilerin Toplanması"
+              "title": "Linux Sistem Dosyaları"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "c28a16b5d62380ae",
   "lastOpenFiles": [
-    "DFIR/Anti Forensic Teknikleri/Dosya Günlükleri Manipülasyonu.md",
-    "DFIR/Anti Forensic Teknikleri/Anonimlik Servisleri.md",
     "DFIR/Linux'ta Forensic/Linux Uçucu Verilerin Toplanması.md",
     "DFIR/Linux'ta Forensic/Linux Sistem Dosyaları.md",
-    "DFIR/Linux'ta Forensic/Linux Configrutaion Dosyaları.md",
+    "DFIR/Linux'ta Forensic/Linux KonfigürasyonDosyaları.md",
+    "DFIR/Linux'ta Forensic/Linux Dosya Sitemleri.md",
     "DFIR/Linux'ta Forensic/Linux Dosya Sistemleri ve Forensic.md",
+    "DFIR/Anti Forensic Teknikleri/Dosya Günlükleri Manipülasyonu.md",
+    "DFIR/Anti Forensic Teknikleri/Anonimlik Servisleri.md",
     "assets/images/votal.png",
     "assets/images/painpiramid.png",
     "SOC Analyst/Guvenlik_Operasyon_Merkezi_ve_SOC_Analisti.md",
